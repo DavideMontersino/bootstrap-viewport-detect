@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-viewport-detect",
+  "version": "0.0.1",
+  "homepage": "https://github.com/DavideMontersino/bootstrap-viewport-detect",
+  "authors": [
+    "Davide Orazio Montersino <davide@davidemontersino.com>"
+  ],
+  "description": "A simple jquery plugin to detect which bootstrap viewport is currently in use (i.e. 'md' or 'xs')",
+  "main": "bootstrapViewport.js",
+  "keywords": [
+    "Bootstrap",
+    "Viewport",
+    "Responsive",
+    "Width"
+  ],
+  "license": "GPL-v2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.2.0"
+  }
+}
